@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: some basics about me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hello! I'm Miranda, currently a student enrolled in Creative Approaches to Emerging Technologies, led by Creative-in-Residence Mimi Onuoha at Olin College of Engineering.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I plan to graduate in May 2020 with a B.S. in General Engineering with a Concentration in Mathematics. I grew up in Southern California, but moved to Northern Virginia after graduating high school. I now attend school in the suburbs of Boston, Massachusetts.
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My favorite cereal is Corn Pops.
