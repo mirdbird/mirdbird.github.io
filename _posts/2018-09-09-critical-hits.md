@@ -1,7 +1,11 @@
 ---
 layout: post
-title: Critical Hits
-subtitle: (right in the 'nads!)
+title: good or bad
+subtitle: "well isn't that subjective?"
 ---
+_The following are thoughts on Michael Mohammed Ahmad's essay,_ [Bad Writer](https://sydneyreviewofbooks.com/bad-writer/).
 
-here we go boyz
+What's it mean to be _good_ at something? And what determines that goodness? In _Bad Writer_, Michael Mohammed Ahmad focuses on what good writers don't do; more explicitly, he focuses on what bad writing is and why many bad writers continue to write poorly. Though he didn't write about other art forms (his criticism is specific!), many of his criticisms apply to those who are "bad artists" or "bad musicians", among other "bad creative-skill-practitioners". Art, after all, is a form of self-expression to the world, of communication. Writing is certainly a form of communication, and as explained by Ahmad, its effectiveness in conveying a message is determined by the specifics to the craft and at some level the experiences and identity of the writer. The effectiveness, or "goodness" and "badness", of other forms of art is also often gauged by how successful it is in communicating a feeling, emotion, or idea to those who engaged with it. 
+
+This effectiveness is hard to quantify. With increased accessibility and exposure that artists receive through the internet, an artwork's popularity is a quantifiable measure of how many people engage with the artwork. Because of its numerical nature, popularity is sometimes used as a measure of how "good" art is, or even how "good" an idea is. After all, more people are likely to share a work with their friends and community, thereby reaching an even greater audience, if the work resonated with them in some way. And isn't that resonance indicative of effective communication? Not necessarily. There are plenty of books, of songs, of artwork, of memes, that are fantastically popular, but don't really communicate much of anything. I think of this sort of media sort of like junk food: highly consumable, in fact, engineered to be consumed by the masses, but ultimately lacking in nutritional (or meaningful) content. Like junk food, it's mostly benign, and is enjoyable to indulge in sometimes. But oversaturation of this sort of thing, or trying to derive meaningful value from this sort of content could end up being harmful. Creative media influences a social consciousness, and when people are saturated with content in which they don't need to think too hard for themselves, or are simply told what to feel, it takes away from our ability to know ourselves and each other as individuals, rather working only with the narrative that is fed through this creative "junk food".
+
