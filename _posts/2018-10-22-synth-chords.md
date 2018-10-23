@@ -21,7 +21,21 @@ subtitle:
 ## Balkanization (Splinternet)
 [There May Soon Be Three Internets](https://www.nytimes.com/2018/10/15/opinion/internet-google-china-balkanization.html), an opinion article by the NYT Editorial Board.
 
-[The Future of the Internet](https://www.economist.com/briefing/2010/09/02/a-virtual-counter-revolution), an article on the Balkanization of the internet for the 09-02-2010 edition of The Economist.
+[The Future of the Internet](https://www.economist.com/briefing/2010/09/02/a-virtual-counter-revolution), an article on the Balkanization of the internet for the 09/02/2010 edition of The Economist.
+
+[What Is the Splinternet?](https://www.economist.com/the-economist-explains/2016/11/22/what-is-the-splinternet)
+
+[Republicans Find a Facebook Workaround: Their Own Apps](https://www.nytimes.com/2018/10/20/technology/politics-apps-conservative-republican.html)
+
+[Will the Global Village Fracture into Tribes?](https://poseidon01.ssrn.com/delivery.php?ID=422073103008125081104126081070006088050013055019019054113025090123110092098124112089026006024040028056016072099116013077112113061043059044028067103098098096107110081013020124090065000007084103113095073081002086108072075072077127120091117118025013022&EXT=pdf), a 2013 University of Pennsylvania Wharton School paper by Kartik Hosanagar, Daniel Fleder, Dokyun Lee, and Andreas Buja.
+
+[Electronic Communities: Global Village or Cyberbalkans?](http://web.mit.edu/marshall/www/papers/CyberBalkans.pdf), a 1996 MIT Sloan paper by Marshall Van Alstyne and Erik Brynjolfsson. They also published a related article in the journal _Science_ in November of 1996.
+
+[The Fall of the Internet and Rise of the Splinternet](https://www.theatlantic.com/business/archive/2010/03/the-fall-of-the-internet-and-the-rise-of-the-splinternet/37181/), an article for _The Atlantic_.
+
+[Think Again: The Internet](https://foreignpolicy.com/2010/04/26/think-again-the-internet/)
+
+[Survey of Government Internet Filtering Practices Indicates Increasing Internet Censorship](https://cyber.harvard.edu/newsroom/first_global_filtering_survey_released)
 
 ## Privacy
 ### Data Breach
@@ -35,3 +49,4 @@ subtitle:
 
 [Internet of Bodies](https://www.washingtonpost.com/news/theworldpost/wp/2018/10/15/health-data/), an opinion article by Mary Lee for The Washington Post
 
+[Shiru Cafe](http://global.shirucafe.com/mission.php)
