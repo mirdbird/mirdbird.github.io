@@ -14,11 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Miranda's Blog
+title: thoughts n prayers
 
 # Short description of your site
-description: Creative Approaches to Emerging Technologies Fall 2018
-
+description: another online thought posting collection, maybe more formal than other places or more of a blog format
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
